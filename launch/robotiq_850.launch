@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+
+<launch>
+	<node name="robotiq_850" pkg="robotiq_ros" type="robotiq_850" output="screen" />
+</launch>
